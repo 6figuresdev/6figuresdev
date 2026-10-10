@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm 6figuredev{julius}👋
 
-<!--
-**6figuresdev/6figuresdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solidity Developer | Web3 Developer | Founder of ParagonFinance
 
-Here are some ideas to get you started:
+I'm a Solidity Developer and Web3 builder passionate about blockchain technology, decentralized finance, and building practical financial tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm the founder of "ParagonFinance" (https://www.paragonfinance.xyz), a stablecoin-native DeFi platform built on Arc Network, bringing bridging, payments, swaps, and DeFi together in one ecosystem.
+
+🚀 What I'm Working On
+
+- ParagonFinance: Building stablecoin-native financial infrastructure on Arc Network.
+- Smart Contracts: Developing and exploring Solidity-based applications.
+- DeFi & Web3: Exploring stablecoin payments, cross-chain infrastructure, and decentralized applications.
+
+🛠️ Areas of Interest
+
+- Solidity & Smart Contract Development
+- Web3 Development
+- Decentralized Finance (DeFi)
+- Stablecoin Infrastructure
+- Cross-Chain Transfers
+- Crypto Trading & Market Research
+
+🌐 Connect With Me
+
+- Website: https://juliuswork.vercel.app/
+- x:https://x.com/6figuresdev33
+- LinkedIn: "Eze Julius" (https://www.linkedin.com/in/eze-julius-27a490259)
+- GitHub: "@6figuresdev" (https://github.com/6figuresdev)
+- set up a meeting: https://calendly.com/juliuseze279
+
+---
+
+Building in Web3. Exploring DeFi. Creating useful financial infrastructure.
