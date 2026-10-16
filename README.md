@@ -6,7 +6,7 @@ I'm a Solidity Developer and Web3 builder passionate about blockchain technology
 
 I'm the founder of "ParagonFinance" (https://www.paragonfinance.xyz), a stablecoin-native DeFi platform built on Arc Network, bringing bridging, payments, swaps, and DeFi together in one ecosystem.
 
-🚀 What I'm Working On
+ What I'm Working On
 
 - ParagonFinance: Building stablecoin-native financial infrastructure on Arc Network.
 - Smart Contracts: Developing and exploring Solidity-based applications.
